@@ -1,0 +1,10 @@
+discord.py
+python-dotenv
+requests
+apscheduler
+pandas
+selenium
+beautifulsoup4
+jobspy
+psycopg2
+random
